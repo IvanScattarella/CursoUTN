@@ -1,0 +1,9 @@
+1) Mercado
+  a) Coca cola
+  b) Fideos
+  c) Mayonesa
+ 
+2) Verduleria
+  a) Tomate
+  b) Rucula
+  c) Limon
